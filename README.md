@@ -58,6 +58,9 @@
     <tr>
           <td>Bank Account</td>
           <td><a href="https://github.com/NazaninFereydouniF/Bank-Account/tree/main" target="_blank">repositorie</a></td>
+    <tr>
+          <td>Numbers Games</td>
+          <td><a href="https://github.com/NazaninFereydouniF/Numbers-Game/tree/main" target="_blank">repositorie</a></td>
     </tr>
 
 </table>
