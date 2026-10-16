@@ -49,6 +49,9 @@
     <tr>
           <td>Tic Tac Toe Game</td>
           <td><a href="https://github.com/NazaninFereydouniF/Tic-Tac-Toe-Game" target="_blank">repositorie</a></td>
+    <tr>
+          <td>Screen Recorder</td>
+          <td><a href="https://github.com/NazaninFereydouniF/Screen-Recorder-Persian-Format-" target="_blank">repositorie</a></td>
       </tr>
 
 </table>
