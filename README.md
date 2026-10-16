@@ -48,7 +48,7 @@
           <td><a href="https://github.com/NazaninFereydouniF/Speech_To_Text" target="_blank">repositorie</a></td>
     <tr>
           <td>Tic Tac Toe Game</td>
-          <td><a href=>
+          <td><a href="https://github.com/NazaninFereydouniF/Tic-Tac-Toe-Game" target="_blank">repositorie</a></td>
       </tr>
 
 </table>
