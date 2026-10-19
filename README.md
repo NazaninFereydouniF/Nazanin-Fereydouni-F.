@@ -1,7 +1,5 @@
 <h1 align="center">Welcome to my GitHub page👩🏻‍💻</h1>
 <p align="center">♾️👧🏻💻🎮🧮♾️</p>
-  <br/>
-
 
 ###
 
@@ -43,8 +41,6 @@
   </table>
 </div>
 
-
-<br/>
   
 </div>
 
@@ -91,8 +87,6 @@
   <img width="12" />
 
 </div>
-
-<br/>
   
 ###
 
