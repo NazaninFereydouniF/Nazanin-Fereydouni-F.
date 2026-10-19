@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to my GitHub page👩🏻‍💻</h1>
 <p align="center">♾️👧🏻💻🎮🧮♾️</p>
+  <br/>
+
 
 ###
 
@@ -8,15 +10,42 @@
 ###
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9e0.png" height="30" alt="Brain" />
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" height="30" alt="DNA" />
+        <br />
+        <sub><strong>Neuroscience</strong></sub>
+      </td>
 
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9e0.png" height="30" alt="brain logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9ec.png" height="30" alt="neuroscience logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png" height="30" alt="dollar auction game logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9e9.png" height="30" alt="cognitive games logo"  />
-  <img width="12" />
+  <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f528.png" height="30" alt="Auction hammer" />
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4b0.png" height="30" alt="Money" />
+        <br />
+        <sub><strong>Dollar Auction Game</strong></sub>
+      </td>
+
+  <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f4bb.png" height="30" alt="Computer" />
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f3ae.png" height="30" alt="Game controller" />
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f9e9.png" height="30" alt="Puzzle piece" />
+        <br />
+        <sub><strong>Cognitive Games</strong></sub>
+      </td>
+
+  <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/1f916.png" height="30" alt="AI robot" />
+        <br />
+        <sub><strong>Artificial Intelligence &amp; Machine Learning</strong></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<br/>
+  
 </div>
 
 ###
@@ -63,6 +92,8 @@
 
 </div>
 
+<br/>
+  
 ###
 
 <h2 align="center">Ways of communication</h2>
@@ -79,6 +110,8 @@
   </a>
 </div>
 
+<br/>
+  
 ###
 
 <h2 align="center">Projects😉</h2>
