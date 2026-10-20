@@ -122,6 +122,9 @@
           <td>Tic Tac Toe Game</td>
           <td><a href="https://github.com/NazaninFereydouniF/Tic-Tac-Toe-Game" target="_blank">repositorie</a></td>
     <tr>
+          <td>Black Jack Game</td>
+          <td><a href="https://github.com/NazaninFereydouniF/Black-Jack-Game/blob/main/README.md" target="_blank">repositorie</a></td>
+    <tr>
           <td>Industrial Robot</td>
           <td><a href="https://github.com/NazaninFereydouniF/Industrial-Robot/tree/main" target="_blank">repositorie</a></td>
     <tr>
