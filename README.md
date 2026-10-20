@@ -128,6 +128,9 @@
           <td>Screen Recorder</td>
           <td><a href="https://github.com/NazaninFereydouniF/Screen-Recorder-Persian-Format-" target="_blank">repositorie</a></td>
     <tr>
+          <td>Rock Paper Scissor Game</td>
+          <td><a href="https://github.com/NazaninFereydouniF/Rock-Paper-Scissor-Game/tree/main" target="_blank">repositorie</a></td>
+    <tr>
           <td>Bank Account</td>
           <td><a href="https://github.com/NazaninFereydouniF/Bank-Account/tree/main" target="_blank">repositorie</a></td>
     <tr>
